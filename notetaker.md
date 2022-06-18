@@ -11,12 +11,12 @@ In this application, the user is able to create notes by typing in both a title 
 
 ## Installation
 1. Install package.json using npm init -y
-2. Install node modules and package-lock.json using npm install
+2. Install node modules, package-lock.json, and other packges needed using npm i express, and npm i uuidv4, and npm i.
 3. Type in npm start to launch the local host and go to the http://localhost:3001/ port site to access application
 
 ## Questions
 If you have any questions, please contact me via email at [kishan725@gmail.com](mailto:kishan725@gmail.com) or through github at [kishanshah98](https://github.com/kishanshah98)
 
-## Deployed Link
+## Heroku Deployed Link
 
 [Deployed link]()
