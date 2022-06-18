@@ -19,4 +19,4 @@ If you have any questions, please contact me via email at [kishan725@gmail.com](
 
 ## Heroku Deployed Link
 
-[Deployed link]()
+[Deployed link](https://note-taker-application-ks.herokuapp.com/)
